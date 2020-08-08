@@ -7,6 +7,6 @@ ___
 - 자전거대여횟수 데이터를 이용해, 자전거 대여에 어떠한 부분이 상관관계가 강하게 미치는지에 대해 분석
 
 ### 사용 데이터
-https://www.kaggle.com/c/bike-sharing-demand 캐글 데이터 이용
+- https://www.kaggle.com/c/bike-sharing-demand 캐글 데이터 이용
 
 
